@@ -1,3 +1,5 @@
+[![Status](https://img.shields.io/badge/status-submittable-brightgreen.svg)](https://travis-ci.com/crowdbotics-challenges/bakery_scaffold_ldcITqhxV7tRzx9T/builds/127916913)
+
 # Status
 
 A status badge will appear above after you make your first commit and the build completes. You can click into the badge to view information about your build. If you think the status is incorrect, check your build or please wait a couple minutes - it may still be building.
